@@ -1,4 +1,4 @@
-<img align="right" alt="coding gif" width="100%" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
+<img align="right" alt="coding gif" width="100%" height="350px" src="https://user-images.githubusercontent.com/108159910/194412452-8d6715b9-6685-43ba-a32c-6fabf9448f79.gif">
 
 <h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
