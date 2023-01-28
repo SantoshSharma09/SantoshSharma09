@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **san.kr.sharma090@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1ah7a1cotcmOdPCiiUR-GtJnQJWep75HT/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ah7a1cotcmOdPCiiUR-GtJnQJWep75HT/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
